@@ -59,7 +59,7 @@ endmodule
 **RTL realization**
 ![image](https://github.com/Hemanthreddy0321/BOOLEAN_FUNCTION_MINIMIZATION/assets/150005937/5ec9f4c6-1da0-4d79-aea5-810ab4d72976)
 
-Truth Table 
+Truth Table :
 ![image](https://github.com/Hemanthreddy0321/BOOLEAN_FUNCTION_MINIMIZATION/assets/150005937/cb29a431-cc89-4c19-90bd-7a8da8342085)
 
 
